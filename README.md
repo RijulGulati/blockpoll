@@ -8,7 +8,7 @@ Application URL: [https://blockpoll.io](https://blockpoll.io)
 
 ## Solana on-chain program (smart contract)
 
-The on-chain program source code is available in [`program-rust/`](https://github.com/RijulGulati/blockpoll/program-rust) directory.
+The on-chain program source code is available in [`program-rust/`](https://github.com/RijulGulati/blockpoll/tree/main/program-rust) directory.
 
 - The program is deployed on Solana `devnet` cluster.
 - Program Address: [GnS5xMqf5NaY7HgbwFneyLNktT8NNNKi4rA2JEmnYdzi](https://explorer.solana.com/address/GnS5xMqf5NaY7HgbwFneyLNktT8NNNKi4rA2JEmnYdzi?cluster=devnet)
