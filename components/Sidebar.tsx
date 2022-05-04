@@ -43,7 +43,7 @@ const Sidebar: NextPage<DefaultProps> = (props) => {
         <h4 className={`${baseStyle['heading']} ${style['heading-text']}`}>
           <em>Open Source Decentralized Blockchain-based Polling</em>
         </h4>
-        <Link href={'https://github.com/BlockPoll'}>
+        <Link href={'https://github.com/RijulGulati/blockpoll'}>
           <a target={'_blank'}>
             <span className={style['github']}>
               <Image
